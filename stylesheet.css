@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'Revue';
-    src: url('https://github.com/sonejijay52-creator/fonts/blob/main/Revue.woff2') format('woff2'),
-        url('https://github.com/sonejijay52-creator/fonts/blob/main/Revue.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
 
+    src:
+    url('https://cdn.jsdelivr.net/gh/sonejijay52-creator/fonts@main/reve.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/sonejijay52-creator/fonts@main/reve.woff') format('woff');
+
+    font-weight: normal;
+    font-style: normal;
+}
